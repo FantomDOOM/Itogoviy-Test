@@ -1,0 +1,16 @@
+C:\Users\user\Documents\мш280\упу\bin\Debug\net5.0\упу.exe
+C:\Users\user\Documents\мш280\упу\bin\Debug\net5.0\упу.deps.json
+C:\Users\user\Documents\мш280\упу\bin\Debug\net5.0\упу.runtimeconfig.json
+C:\Users\user\Documents\мш280\упу\bin\Debug\net5.0\упу.runtimeconfig.dev.json
+C:\Users\user\Documents\мш280\упу\bin\Debug\net5.0\упу.dll
+C:\Users\user\Documents\мш280\упу\bin\Debug\net5.0\ref\упу.dll
+C:\Users\user\Documents\мш280\упу\bin\Debug\net5.0\упу.pdb
+C:\Users\user\Documents\мш280\упу\obj\Debug\net5.0\упу.csproj.AssemblyReference.cache
+C:\Users\user\Documents\мш280\упу\obj\Debug\net5.0\упу.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\мш280\упу\obj\Debug\net5.0\упу.AssemblyInfoInputs.cache
+C:\Users\user\Documents\мш280\упу\obj\Debug\net5.0\упу.AssemblyInfo.cs
+C:\Users\user\Documents\мш280\упу\obj\Debug\net5.0\упу.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\мш280\упу\obj\Debug\net5.0\упу.dll
+C:\Users\user\Documents\мш280\упу\obj\Debug\net5.0\ref\упу.dll
+C:\Users\user\Documents\мш280\упу\obj\Debug\net5.0\упу.pdb
+C:\Users\user\Documents\мш280\упу\obj\Debug\net5.0\упу.genruntimeconfig.cache
